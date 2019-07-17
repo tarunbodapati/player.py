@@ -1,3 +1,3 @@
-x=input()
-z=x[::-1]
+n=input()
+z=n[::-1]
 print(z)
