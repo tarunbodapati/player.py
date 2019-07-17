@@ -1,3 +1,3 @@
-x=input()
-z=x[::-1]
+tarun=input()
+z=tarun[::-1]
 print(z)
