@@ -1,5 +1,5 @@
 y=list(input())
-for i in range(0,len(x),2):
+for i in range(0,len(y),2):
     c=y[i]
     y[i]=y[i+1]
     y[i+1]=c
